@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/samira1980dev/samira1980dev/blob/output/github-contribution-grid-snake.svg)
 <!--
 **samira1980dev/samira1980dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
