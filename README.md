@@ -12,12 +12,12 @@
 </div>
 ### Estatísticas Github:
 <div>
-<a href="https://github.com/natycavaillier">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natycavaillier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natycavaillier&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/samira1980dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samira1980dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira1980dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<img src="https://github.com/natycavaillier/natycavaillier/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://github.com/samira1980dev/samira1980dev/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 <div align="center">
   <a href="https://github.com/samira1980dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samira1980dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
