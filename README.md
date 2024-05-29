@@ -13,7 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30" height="40"/>
-![image](https://github.com/samira1980dev/samira1980dev/assets/69822266/60eb0018-83c8-4598-b96f-e8aed2673002)
 
 
 </div>
