@@ -14,8 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png">
-<img scr="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" height="40">
 <img src="https://www.radioculturadecuritiba.art.br/wp-content/uploads/2024/01/capa-2-1-e1706110307752.jpg" height="40">
 
 
