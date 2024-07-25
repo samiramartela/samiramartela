@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30" height="40"/>
-<img scr="https://banner2.cleanpng.com/20190516/jxv/kisspng-computer-icons-portable-network-graphics-scalable-unity-icon-of-glyph-style-available-in-svg-png-5cdd4e406bd6e8.7654505415580073604417.jpg">
+<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKppLXiM4kR1hqKGEU4q7x5sAYj4nJEzGGg&s">
 
 
 </div>
